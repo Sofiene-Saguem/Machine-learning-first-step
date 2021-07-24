@@ -1,0 +1,11 @@
+Q1:In K-Nearest Neighbors, which of the following is true:
+
+***a/A very high value of K (ex. K = 100) produces an overly generalised model, while a very low value of k (ex. k = 1) produces a highly complex model.
+
+Q2:A classifier with lower log loss has better accuracy.
+
+**a/True
+
+Q3:When building a decision tree, we want to split the nodes in a way that decreases entropy and increases information gain.
+
+***a/true
